@@ -1,3 +1,4 @@
+// npm install gulp-sass gulp-minify-css gulp-uglify gulp-concat gulp-rename gulp-jshint gulp-clean gulp-svgmin gulp-imagemin gulp-size
 
     // Gulp
     var gulp = require('gulp'),
